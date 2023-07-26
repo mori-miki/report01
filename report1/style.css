@@ -71,17 +71,18 @@ footer {
     width: 100%;
   }
   main {
-    width: 100%;
-  }
+  width: 100%;
+  margin-left:15px;
+  margin-right: 15px;
+}
   .main-content{
     flex-direction:column;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
   }
   .step-box {
-  width: 90%;
-  margin: 20px;
+  width:90%;
+  margin-bottom: 20px;
   }
   .step-img1 {
   padding:20px;
